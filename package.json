@@ -1,7 +1,7 @@
 {
-  "name": "XinzBot",
+  "name": "REY",
   "version": "1.0.0",
-  "description": "Ga ada",
+  "description": "BOT Eror? Lapor Owner!",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "aqulzz",
+  "author": "REY",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.1",
     "@vitalets/google-translate-api": "^7.0.0",
